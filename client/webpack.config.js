@@ -37,10 +37,10 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         name: 'J.A.T.E Text Editor',
-        short_name: 'J.A.T.A',
+        short_name: 'J.A.T.E',
         description: 'Create notes or code snippets',
-        background_color: '#272822',
-        theme_color: '#31a9e1',
+        background_color: '#225ca3',
+        theme_color: '#225ca3',
         start_url: './',
         publicPath: './',
         icons: [
