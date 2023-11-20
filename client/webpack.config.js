@@ -23,6 +23,7 @@ module.exports = () => {
       // Webpack plugin that generates our html file and injects our bundles. 
       new HtmlWebpackPlugin({
         template: './index.html',
+        favicon: "./favicon.ico",
         title: 'J.A.T.E'
       }),
 
